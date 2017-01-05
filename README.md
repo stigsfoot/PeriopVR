@@ -16,8 +16,11 @@ Why this industry?
 ---
 
 1) Academic research shows distractions can help anxiety during preoperative preparation and increase comfort during intraoperative, and the postoperative process. Perioperative routines in VR has been shown to reduce patient and hospital costs. 
+
 2) The [national institute of health](link.com) also advocates reducing opioids to help improve patient care by expediting recovery time.  
-3) Healthcare providers looking for alternatives tools to reduce cost, improve patient experience and adhere to NIH recommendations
+
+3) Healthcare providers looking for alternatives tools to reduce cost, improve patient experience and adhere to NIH recommendations.
+
 4) VR is a powerful option for meeting #2, #3
 
 
