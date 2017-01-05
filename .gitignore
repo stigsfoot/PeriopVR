@@ -1,0 +1,16 @@
+*.meta
+*.mat
+*.csproj
+*.fbx
+*.sln
+*.userprefs
+*.asset
+*.txt
+/Temp/*
+/obj/*
+/ProjectSettings/*
+/Library/*
+/Assets/GoogleVR/*
+/Assets/Plugins/*
+/Assets/Editor/*
+/Standard Assets/*
