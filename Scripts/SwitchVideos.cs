@@ -32,21 +32,26 @@ public class SwitchVideos : MonoBehaviour {
 
 	public void Station1() {
 		ShowContent(0);
+		Debug.Log(">> Station 1 <<");
 	}
 
 	public void Station2() {
 		ShowContent(1);
+		Debug.Log(">> Station 2 <<");
 	}
 
 	public void Station3() {
 		ShowContent(2);
+		Debug.Log(">> Station 3 <<");
 	}
 	public void Station4() {
 		ShowContent(3);
+		Debug.Log(">> Station 4 <<");
 	}
 
 	public void Station5() {
 		ShowContent(4);
+		Debug.Log(">> Station 5 <<");
 	}
 
 

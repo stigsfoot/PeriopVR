@@ -18,17 +18,17 @@ public class MenuController : MonoBehaviour, IGvrGazeResponder {
 
 	public void OnGazeEnter ()
 	{
-		Debug.Log("Entered Gaze");
+		//Debug.Log("Entered Gaze");
 	}
 
 	public void OnGazeExit ()
 	{
-		Debug.Log("Gaze Exit");
+		//Debug.Log("Gaze Exit");
 	}
 
 	public void OnGazeTrigger ()
 	{
-		Debug.Log("Clicked");
+		//Debug.Log("Clicked");
 	}
 
 	#endregion
