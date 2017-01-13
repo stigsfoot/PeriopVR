@@ -1,6 +1,9 @@
 Experiential Perioperative Procedures using VR
 ===
 
+![Explainer scene](http://i.imgur.com/MUEcdBB.png "Main menu explainer scene screenshot")
+
+
 Purpose
 ---
 Using VR as a medical application to reduce pain and anxiety before during and after procedures. 
